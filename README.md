@@ -1,10 +1,10 @@
 # example-webpack-4
 
-Just an example showing new awesome stuff [Webpack 4](https://github.com/webpack/webpack/releases/tag/v4.0.0) brang to the table.
+Just an example showing new awesome stuff [Webpack 4](https://github.com/webpack/webpack/releases/tag/v4.0.0) brings to the table.
 
 ## Major Changes
 
-1. Zero configuration: webpack 4 doesn’t need a configuration file anymore.
+1. Zero configuration: Webpack 4 doesn’t need a configuration file anymore.
 
     It will look in `./src/index.js` as the default entry point. Moreover, it will expose the bundle in `./dist/main.js` as the default output file.
 
